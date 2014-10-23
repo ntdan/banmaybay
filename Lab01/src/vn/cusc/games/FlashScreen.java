@@ -1,5 +1,6 @@
-package vn.cusc.lab01;
+package vn.cusc.games;
 
+import vn.cusc.lab01.R;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
